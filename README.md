@@ -1,111 +1,57 @@
-<h1 align="center">Gabriel Santana</h1>
-<h3 align="center">Backend Developer | Python | APIs | SQL Server | Automação de Processos</h3>
+# Gabriel César Santana
 
-<p align="center">
-  Soluções internas • Integrações entre sistemas • Automação operacional
-</p>
+![Backend Python](https://img.shields.io/badge/Backend-Python-1f6feb?style=flat-square)
+![APIs REST](https://img.shields.io/badge/APIs-REST-238636?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL-Server-b62324?style=flat-square)
+![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-RPA%20%26%20Integra%C3%A7%C3%B5es-8957e5?style=flat-square)
+![IA aplicada](https://img.shields.io/badge/IA-aplicada-9e6a03?style=flat-square)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+APIs+%7C+SQL+Server;Automa%C3%A7%C3%A3o+de+processos+e+sistemas+internos;Construindo+solu%C3%A7%C3%B5es+que+geram+impacto+real" alt="Typing SVG" />
-</p>
+Comecei atendendo clientes numa operação de cobrança e, em cerca de 18 meses, passei a desenvolver os sistemas que automatizam essa operação. Hoje construo APIs, robôs e integrações em Python que rodam em produção todos os dias.
 
----
+### Em produção
 
-## Perfil
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>+500 mil</h3>e-mails por dia, sem envio duplicado</td>
+    <td align="center" width="25%"><h3>~1.300</h3>contas no Active Directory automatizadas</td>
+    <td align="center" width="25%"><h3>~140</h3>endpoints num portal FastAPI + React</td>
+    <td align="center" width="25%"><h3>~11</h3>credores integrados por SFTP todo dia</td>
+  </tr>
+</table>
 
-Desenvolvedor Backend com foco em **APIs**, **automações** e **sistemas internos** voltados ao negócio.
+### Tecnologias
 
-Crio soluções que:
-- automatizam processos operacionais
-- integram sistemas e plataformas
-- reduzem tarefas manuais
-- aumentam eficiência e confiabilidade
-- suportam rotinas com alto volume de dados
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-1f6feb?style=flat-square)
 
-Tenho experiência prática com automações corporativas, integrações entre sistemas e estruturas backend organizadas, escaláveis e de fácil manutenção.
+**Dados** &nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-b62324?style=flat-square)
 
----
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## Especialidades
+**Automação** &nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![SFTP · SMB](https://img.shields.io/badge/SFTP%20%C2%B7%20SMB-30363d?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-8957e5?style=flat-square)
 
-| Área | Tecnologias / Foco |
-|---|---|
-| **Backend** | Python, Flask, FastAPI, APIs REST |
-| **Banco de Dados** | SQL Server, T-SQL, modelagem, consultas e automações |
-| **Automação** | Processos operacionais, robôs, integrações, processamento de arquivos |
-| **Foco** | Sistemas internos, eficiência operacional, integração e escalabilidade |
+**Qualidade** &nbsp;
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### Agora
 
-## Stack principal
+- **Estudando:** IA aplicada e testes automatizados
+- **Construindo:** um assistente pessoal com IA
+- **Cursando:** Análise e Desenvolvimento de Sistemas, na Cruzeiro do Sul
 
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs_REST-1F6FEB?style=for-the-badge" />
-</p>
+### Contato
 
-### Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-336791?style=for-the-badge" />
-</p>
-
-### Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automação-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Integrações-0A66C2?style=for-the-badge" />
-</p>
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielMsantana&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMsantana&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMsantana&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| **Automação de Gestão de Usuários** | Automação para criação, atualização e desativação de usuários, integrada a sistemas internos e rotinas corporativas. |
-| **Robô de Envio de E-mails em Larga Escala** | Solução backend para processamento e envio em alto volume, com foco em performance, confiabilidade e automação. |
-| **APIs e Integrações Corporativas** | Desenvolvimento de APIs e integrações entre sistemas internos e serviços externos, com foco em comunicação consistente e escalabilidade. |
-| **Automação de Processos Operacionais** | Robôs para leitura de arquivos, integração via SFTP, processamento de dados e automação de rotinas corporativas. |
-
----
-
-## Objetivo profissional
-
-Fortalecer minha trajetória como desenvolvedor backend, criando soluções robustas, úteis para o negócio e tecnicamente bem estruturadas, com foco em automação, integrações e eficiência operacional.
-
----
-
-## Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabrielcesarsantana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielmoreiracesar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gabrielmoreiracesar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Construindo soluções que reduzem esforço manual, aumentam eficiência e geram impacto real.</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielcesarsantana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcesarsantana)
+[![E-mail](https://img.shields.io/badge/E--mail-gabrielsantana.devv%40gmail.com-c5221f?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielsantana.devv@gmail.com)
