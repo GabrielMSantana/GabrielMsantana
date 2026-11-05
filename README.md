@@ -1,4 +1,4 @@
-# Gabriel César Santana
+# Gabriel Santana
 
 ![Backend Python](https://img.shields.io/badge/Backend-Python-1f6feb?style=flat-square)
 ![APIs REST](https://img.shields.io/badge/APIs-REST-238636?style=flat-square)
@@ -6,7 +6,7 @@
 ![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-RPA%20%26%20Integra%C3%A7%C3%B5es-8957e5?style=flat-square)
 ![IA aplicada](https://img.shields.io/badge/IA-aplicada-9e6a03?style=flat-square)
 
-Comecei atendendo clientes numa operação de cobrança e, em cerca de 18 meses, passei a desenvolver os sistemas que automatizam essa operação. Hoje construo APIs, robôs e integrações em Python que rodam em produção todos os dias.
+Comecei como operador numa operação de cobrança e, em cerca de 4 meses, passei para a área de desenvolvimento, automatizando a rotina que eu mesmo fazia. Hoje sou desenvolvedor júnior e construo APIs, robôs e integrações em Python que rodam em produção todos os dias.
 
 ### Em produção
 
